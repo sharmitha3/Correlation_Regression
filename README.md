@@ -21,7 +21,6 @@ If y represents the dependent variable and x the independent variable, this rela
 
 # Program :
 ~~~
-![image](https://github.com/ramjan1729/Correlation_Regression/assets/103921593/9eb48cbf-8ca3-4cd9-8440-ff45fd98333e)
 import numpy as np
 import math
 import matplotlib.pyplot as plt
@@ -56,6 +55,11 @@ plt.ylabel('y-data')
 plt.legend(['Regression Line','Data points'])
 
 ~~~
-# Result
 
 # Output 
+![image](https://github.com/sharmitha3/Correlation_Regression/assets/145974496/67369707-d80d-4753-8b17-fe04969ef76b)
+
+# Result
+
+The code calculates the correlation coefficient and regression line for given data and plots the regression line along with the data points.
+
